@@ -1,1 +1,1 @@
-worker: java -jar target/JMusicBot-0.3.3.jar
+worker: java -jar target/tet7609.jar
